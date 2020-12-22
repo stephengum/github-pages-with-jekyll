@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Steve Gum's GitHub blog
 
-I'm glad you are here. I plan to talk about ...
+Here is my attempt at working with GitHub Pages
